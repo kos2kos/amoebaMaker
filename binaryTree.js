@@ -13,7 +13,7 @@ function addChild (amoeba, parentName, childName){
     }
   }
 }
-
+console.log("testing")
 function findParent (amoeba, parentName) {
   console.log(amoeba.name)
   let boom = "jkb"
